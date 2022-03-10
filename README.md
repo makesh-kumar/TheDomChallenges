@@ -10,4 +10,6 @@
 
 3. Color Spotter
 
-![Animation](https://user-images.githubusercontent.com/65646841/157657918-1f83bbd7-7637-4716-b4f4-49a6467cedba.gif)
+![Animation](https://user-images.githubusercontent.com/65646841/157658186-48b0776d-a815-4c06-b9ab-6a08ca57f911.gif)
+
+
