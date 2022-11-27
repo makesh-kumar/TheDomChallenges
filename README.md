@@ -1,6 +1,6 @@
 # The Dom Challenges
 
- ### Implement Star Rating Widget using HTML, CSS and JavaScript
+ #### 1.) Implement Star Rating Widget using HTML, CSS and JavaScript
  https://codepen.io/makesh-kumar/pen/OJOKjKX
 
 ![Animation](https://user-images.githubusercontent.com/65646841/157610034-bc704a45-fd1b-473c-bff5-d0d6c283da69.gif)
