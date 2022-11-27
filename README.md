@@ -1,7 +1,7 @@
 # The Dom Challenges
 
-1. Star Rating  - https://codepen.io/makesh-kumar/pen/OJOKjKX
- # Implement Star Rating Widget using HTML, CSS and JavaScript
+ ## Implement Star Rating Widget using HTML, CSS and JavaScript
+ https://codepen.io/makesh-kumar/pen/OJOKjKX
 
 ![Animation](https://user-images.githubusercontent.com/65646841/157610034-bc704a45-fd1b-473c-bff5-d0d6c283da69.gif)
 
