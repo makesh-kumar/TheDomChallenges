@@ -1,0 +1,61 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.post {
+  padding: 30px;
+  border: 1pt solid blue;
+}
+
+input {
+  height: 32px;
+  margin-right: 10px;
+}
+
+section {
+  margin: 10px;
+}
+
+button {
+  padding: 3px 12px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.disabled {
+  opacity: 0.5;
+}
+
+.reply {
+  margin-left: 10px;
+}
+
+.hide {
+  display: none;
+}
+
+.comment {
+  padding: 5px;
+  border-left: 1px solid;
+}
+
+.sub-comment {
+  position: relative;
+  left: 80px;
+}
+
+.like {
+  background-color: skyblue;
+  color: white;
+}
+.add-new-comment {
+  margin-top: 10px;
+}
+
+input:focus-visible {
+  outline: none;
+}
+
+.blue-border {
+  border: 1pt solid blue;
+}
