@@ -1,15 +1,25 @@
 # The Dom Challenges
 
-1. Star Rating  - https://codepen.io/makesh-kumar/pen/OJOKjKX
+ #### 1.) Implement Star Rating Widget using HTML, CSS and JavaScript
+ https://codepen.io/makesh-kumar/full/OJOKjKX
 
 ![Animation](https://user-images.githubusercontent.com/65646841/157610034-bc704a45-fd1b-473c-bff5-d0d6c283da69.gif)
 
-2. Chess Board - https://codepen.io/makesh-kumar/pen/BamXwaL
+ #### 2.) Implement chess board using HTML, CSS and Vanilla Javascript, where if you click on any of the block it should highlight its diagonals.
+https://codepen.io/makesh-kumar/full/BamXwaL
 
 ![Animation](https://user-images.githubusercontent.com/65646841/157636915-fc079ba4-8208-4220-8dbf-dfe70adf0b6b.gif)
 
-3. Color Spotter - https://codepen.io/makesh-kumar/pen/GROVMgo
+ #### 3.) Implement color spotter game using HTML, CSS and Vanilla Javascript, where you have to identify the cell that is different from the rest
+ https://codepen.io/makesh-kumar/full/GROVMgo
 
 ![Animation](https://user-images.githubusercontent.com/65646841/157658186-48b0776d-a815-4c06-b9ab-6a08ca57f911.gif)
+
+
+ #### 4.) Implement a monthly calendar using vanilla js
+ https://codepen.io/makesh-kumar/full/WNdGZLy
+ ![Calendar](https://user-images.githubusercontent.com/65646841/204148508-a59d569d-b670-4cc8-b699-3b505864cdfe.gif)
+
+ 
 
 
