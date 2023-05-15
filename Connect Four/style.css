@@ -1,0 +1,74 @@
+:root {
+  --boxColor: red;
+}
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.board {
+  width: 425px;
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: baseline;
+  padding: 10px;
+  background-color: rgb(234 234 234);
+}
+
+.box {
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+
+.selectors {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  gap: 10px;
+  padding-bottom: 10px;
+}
+.select-box {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+
+.select-box:hover {
+  cursor: pointer;
+  background-color: var(--boxColor);
+}
+
+.d-none {
+  display: none;
+}
+.msg {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.reset {
+  padding: 4px 24px;
+  cursor: pointer;
+  margin: 8px;
+}
+.winner {
+  font-size: 26px;
+  font-weight: bold;
+}
+p {
+  margin: 0;
+}
