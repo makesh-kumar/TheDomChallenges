@@ -19,6 +19,12 @@ https://codepen.io/makesh-kumar/full/BamXwaL
  #### 4.) Implement a monthly calendar using vanilla js
  https://codepen.io/makesh-kumar/full/WNdGZLy
  ![Calendar](https://user-images.githubusercontent.com/65646841/204148508-a59d569d-b670-4cc8-b699-3b505864cdfe.gif)
+ 
+ 
+ #### 5.) Implement social media comment section feature using vanilla JS
+ https://codepen.io/makesh-kumar/full/vYaENXB 
+![Comments](https://user-images.githubusercontent.com/65646841/208722122-c0aa0dee-021f-443f-8a22-c1007122f2e4.gif)
+
 
  
 
