@@ -25,7 +25,9 @@ https://codepen.io/makesh-kumar/full/BamXwaL
  https://codepen.io/makesh-kumar/full/vYaENXB 
 ![Comments](https://user-images.githubusercontent.com/65646841/208722122-c0aa0dee-021f-443f-8a22-c1007122f2e4.gif)
 
+ #### 6.) Connect-four Game in vanilla JS
+ https://codepen.io/makesh-kumar/full/LYgBaRx
+ ![connect four example](https://github.com/makesh-kumar/TheDomChallenges/assets/65646841/1037b1de-a549-41a1-b960-f48ec0e7547c)
 
- 
 
 
