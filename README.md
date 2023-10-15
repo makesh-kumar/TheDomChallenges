@@ -47,6 +47,8 @@ https://codepen.io/makesh-kumar/full/rNogWEg
 
  #### 11.) Image Carousel
 https://codepen.io/makesh-kumar/full/VwqOmoK
+![Image Carousel (2)](https://github.com/makesh-kumar/TheDomChallenges/assets/65646841/014c45de-8eae-42e9-8b82-154e5b9e2567)
+
 
  #### 12.) Type ahead search with suggestions
  https://codepen.io/makesh-kumar/full/OJrYWLO
