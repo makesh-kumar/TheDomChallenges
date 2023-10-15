@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drag and Drop</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js" defer>
+    </script>
+</head>
+
+<body>
+
+    <!-- <div id="boxes">
+        <div id="box1" class="box" draggable="true">
+            <p>1</p>
+        </div>
+        <div id="box2" class="box"  draggable="true">
+            <p>2</p>
+        </div>
+
+        <div id="box3" class="box"  draggable="true">
+            <p>3</p>
+        </div>
+
+        <div id="box4" class="box"  draggable="true">
+            <p>4</p>
+        </div>
+    </div> -->
+
+    <div id="boxes" class="box-container">
+
+
+
+        <div id="box1" class="box" draggable="true">
+            <img id="img-1"
+                src="https://images.pexels.com/photos/53261/pexels-photo-53261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-1">
+        </div>
+        <div id="box2" class="box" draggable="true">
+            <img id="img-2"
+                src="https://images.pexels.com/photos/87403/cheetah-leopard-animal-big-87403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-2">
+        </div>
+        <div id="box3" class="box" draggable="true">
+            <img id="img-3"
+                src="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-3">
+        </div>
+        <div id="box4" class="box" draggable="true">
+            <img id="img-4"
+                src="https://images.pexels.com/photos/4577792/pexels-photo-4577792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-4">
+        </div>
+        <div id="box5" class="box" draggable="true">
+            <img id="img-5"
+                src="https://images.pexels.com/photos/3493730/pexels-photo-3493730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-5">
+        </div>
+        <div id="box6" class="box" draggable="true">
+            <img id="img-6"
+                src="https://images.pexels.com/photos/3608263/pexels-photo-3608263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-6">
+        </div>
+        <div id="box7" class="box" draggable="true">
+            <img id="img-7"
+                src="https://images.pexels.com/photos/763928/pexels-photo-763928.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-7">
+        </div>
+        <div id="box8" class="box" draggable="true">
+            <img id="img-8"
+                src="https://images.pexels.com/photos/568022/pexels-photo-568022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-8">
+        </div>
+        <div id="box9" class="box" draggable="true">
+            <img id="img-9"
+                src="https://images.pexels.com/photos/3656870/pexels-photo-3656870.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-9">
+        </div>
+        <div id="box10" class="box" draggable="true">
+            <img id="img-10"
+                src="https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-10">
+        </div>
+        <div id="box11" class="box" draggable="true">
+            <img id="img-11"
+                src="https://images.pexels.com/photos/247502/pexels-photo-247502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-11">
+        </div>
+        <div id="box12" class="box" draggable="true">
+            <img id="img-12"
+                src="https://images.pexels.com/photos/2055100/pexels-photo-2055100.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-12">
+        </div>
+        <div id="box13" class="box" draggable="true">
+            <img id="img-13"
+                src="https://images.pexels.com/photos/3551498/pexels-photo-3551498.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-13">
+        </div>
+        <div id="box14" class="box" draggable="true">
+            <img id="img-14"
+                src="https://images.pexels.com/photos/1054650/pexels-photo-1054650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-14">
+        </div>
+        <div id="box15" class="box" draggable="true">
+            <img id="img-15"
+                src="https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-15">
+        </div>
+        <div id="box16" class="box" draggable="true">
+            <img id="img-16"
+                src="https://images.pexels.com/photos/33787/chimpanzee-sitting-sad-mammal.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="image-16">
+        </div>
+
+        <!-- <div id="box1" class="box" draggable="true">1</div>
+        <div id="box2" class="box"  draggable="true">2</div>
+        <div id="box3" class="box"  draggable="true">3</div>
+        <div id="box4" class="box"  draggable="true">4</div>
+        <div id="box5" class="box" draggable="true">5</div>
+        <div id="box6" class="box"  draggable="true">6</div>
+        <div id="box7" class="box"  draggable="true">7</div>
+        <div id="box8" class="box"  draggable="true">8</div>
+        <div id="box9" class="box" draggable="true">9</div>
+        <div id="box10" class="box"  draggable="true">10</div>
+        <div id="box11" class="box"  draggable="true">11</div>
+        <div id="box12" class="box"  draggable="true">12</div>
+        <div id="box13" class="box" draggable="true">13</div>
+        <div id="box14" class="box"  draggable="true">14</div>
+        <div id="box15" class="box"  draggable="true">15</div>
+        <div id="box16" class="box"  draggable="true">16</div> -->
+
+    </div>
+</body>
+
+</html>
