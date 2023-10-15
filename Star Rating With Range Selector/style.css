@@ -1,0 +1,39 @@
+.stars-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+.star {
+  font-size: 5rem;
+}
+
+.stars {
+  position: relative;
+}
+
+.empty-star:before {
+  content: '☆';
+  position: relative;
+}
+
+.rated-star {
+  width: 0%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  color: gold;
+}
+
+.range-section {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+input[type='range'] {
+  width: 25%;
+}
