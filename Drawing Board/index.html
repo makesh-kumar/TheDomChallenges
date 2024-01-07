@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Drawing board</title>
+    <script defer src="./script.js"></script>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <canvas id="board" width="1000" height="400"></canvas>
+      <div class="tools">
+        <input type="color" id="color-picker" />
+        <div class="tool-pen">
+          <img src="./icon-pencil.png" alt="" width="35" height="35" />
+        </div>
+        <div class="tool-eraser">
+          <img src="./icon-eraser.png" alt="" width="35" height="35" />
+        </div>
+        <div class="brush-size">
+          <input type="range" id="tool-size" value="1" min="1" max="10" />
+          <span id="tool-size-val"></span>
+        </div>
+        <button id="clear-btn">Clear Board</button>
+        <div></div>
+      </div>
+    </div>
+  </body>
+</html>
