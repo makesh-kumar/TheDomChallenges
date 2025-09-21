@@ -1,0 +1,50 @@
+body {
+  background-color: #242222;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* google fonts */
+.outfit-font {
+  font-family: 'Outfit', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+.inp-box {
+  margin: 1px;
+  margin-bottom: 4px;
+  border: 2px solid #535353;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  font-size: 30px;
+  background-color: #242222;
+  caret-color: transparent;
+  color: white;
+}
+
+.inp-box:focus {
+  outline: none;
+  border-color: white;
+}
+
+.input-white-border {
+  border-color: #717171;
+}
+
+.inp-box-bg-yellow {
+  background-color: #b8b817;
+}
+
+.inp-box-bg-green {
+  background-color: #458f45;
+}
+
+.pointer-events-none {
+  pointer-events: none;
+}
