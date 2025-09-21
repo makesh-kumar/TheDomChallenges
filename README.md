@@ -58,10 +58,8 @@ https://codepen.io/makesh-kumar/full/VwqOmoK
  https://codepen.io/makesh-kumar/full/rNogjBg
 ![Typing speed test](https://github.com/makesh-kumar/TheDomChallenges/assets/65646841/479a7b35-d4d4-44b6-808c-1aca0b6ebec8)
 
-
-
- 
-
-
+ #### 14.) Drawing board using Canvas
+ https://codepen.io/makesh-kumar/full/XWGdzXR
+![Drawing board](https://github.com/makesh-kumar/TheDomChallenges/assets/65646841/ac19776e-5b7c-416d-a3c8-662ddd829e14)
 
 
